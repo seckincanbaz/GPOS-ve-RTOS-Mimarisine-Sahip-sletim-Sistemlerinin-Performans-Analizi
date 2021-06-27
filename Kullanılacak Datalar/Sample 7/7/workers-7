@@ -1,0 +1,70 @@
+source /opt/ros/noetic/setup.bash
+. ~/catkin_ws/devel/setup.bash
+ubuntu@ubuntu-acer:~$ rosrun turtlesim turtlesim_node
+[ INFO] [1614513777.040666865]: Starting turtlesim with node name /turtlesim
+[ INFO] [1614513777.080687486]: Spawning turtle [turtle1] at x=[5,544445], y=[5,544445], theta=[0,000000]
+^[[A^C
+ubuntu@ubuntu-acer:~$ rosrun turtlesim turtlesim_node
+[ INFO] [1614513846.010158668]: Starting turtlesim with node name /turtlesim
+[ INFO] [1614513846.044237540]: Spawning turtle [turtle1] at x=[5,544445], y=[5,544445], theta=[0,000000]
+^C
+ubuntu@ubuntu-acer:~$ rosrun turtlesim turtlesim_node
+[ INFO] [1614513887.287831614]: Starting turtlesim with node name /turtlesim
+[ INFO] [1614513887.330222494]: Spawning turtle [turtle1] at x=[5,544445], y=[5,544445], theta=[0,000000]
+[ INFO] [1614513994.020458812]: Spawning turtle [t0] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.093765066]: Spawning turtle [t1] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.176371290]: Spawning turtle [t2] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.241440882]: Spawning turtle [t3] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.301589539]: Spawning turtle [t4] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.365481507]: Spawning turtle [t5] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.428750889]: Spawning turtle [t6] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.496572230]: Spawning turtle [t7] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.557747942]: Spawning turtle [t8] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.630460904]: Spawning turtle [t9] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.708372241]: Spawning turtle [t10] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.772436922]: Spawning turtle [t11] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.824416365]: Spawning turtle [t12] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.870787726]: Spawning turtle [t13] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513994.948018471]: Spawning turtle [t14] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.015276078]: Spawning turtle [t15] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.091488610]: Spawning turtle [t16] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.171940302]: Spawning turtle [t17] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.242069455]: Spawning turtle [t18] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.303990020]: Spawning turtle [t19] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.371441704]: Spawning turtle [t20] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.442659311]: Spawning turtle [t21] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.509330528]: Spawning turtle [t22] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.581496824]: Spawning turtle [t23] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.668566350]: Spawning turtle [t24] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.736619497]: Spawning turtle [t25] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.796311920]: Spawning turtle [t26] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.858796289]: Spawning turtle [t27] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.929413105]: Spawning turtle [t28] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513995.988222268]: Spawning turtle [t29] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.050333145]: Spawning turtle [t30] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.124768150]: Spawning turtle [t31] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.190129292]: Spawning turtle [t32] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.254346752]: Spawning turtle [t33] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.311526349]: Spawning turtle [t34] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.383158836]: Spawning turtle [t35] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.444839815]: Spawning turtle [t36] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.519572632]: Spawning turtle [t37] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.580992717]: Spawning turtle [t38] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.657961235]: Spawning turtle [t39] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.723141263]: Spawning turtle [t40] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.777023101]: Spawning turtle [t41] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.843962014]: Spawning turtle [t42] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.923055741]: Spawning turtle [t43] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513996.992312712]: Spawning turtle [t44] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.070333342]: Spawning turtle [t45] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.139899393]: Spawning turtle [t46] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.205786504]: Spawning turtle [t47] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.270144140]: Spawning turtle [t48] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.338693296]: Spawning turtle [t49] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.420752714]: Spawning turtle [t50] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.493321023]: Spawning turtle [t51] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1614513997.563337068]: Spawning turtle [t52] at x=[0,000000], y=[0,000000], theta=[0,000000]
+^C
+ubuntu@ubuntu-acer:~$ ^C
+ubuntu@ubuntu-acer:~$ 
+
