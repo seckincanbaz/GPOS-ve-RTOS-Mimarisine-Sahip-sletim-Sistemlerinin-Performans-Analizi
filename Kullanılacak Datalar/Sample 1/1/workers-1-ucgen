@@ -1,0 +1,9 @@
+ubuntu@ubuntu-acer:~$ rosrun turtlesim turtlesim_node
+[ INFO] [1616583538.821348096]: Starting turtlesim with node name /turtlesim
+[ INFO] [1616583538.855624950]: Spawning turtle [turtle1] at x=[5,544445], y=[5,544445], theta=[0,000000]
+[ INFO] [1616583546.194532309]: Resetting turtlesim.
+[ INFO] [1616583546.263649715]: Spawning turtle [turtle1] at x=[5,544445], y=[5,544445], theta=[0,000000]
+[ INFO] [1616583649.988124114]: Spawning turtle [t0] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1616583650.059365205]: Spawning turtle [t1] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1616583650.153422081]: Spawning turtle [t2] at x=[0,000000], y=[0,000000], theta=[0,000000]
+[ INFO] [1616583650.225884986]: Spawning turtle [t3] at x=[0,000000], y=[0,000000], theta=[0,000000]
